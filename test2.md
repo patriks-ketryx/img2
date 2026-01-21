@@ -1,3 +1,3 @@
-Just some cats!
+Just some capybara!
 
 ![CATS](./capybara.jpg)
